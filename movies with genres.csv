@@ -1,0 +1,21 @@
+﻿user_id,movie_title,rating,genre
+1,Toy  Story ,5,Animation
+1,Jumanji,3,Adventure
+2,Swindled,4,Comedy
+2,Grumpier Old Men ,5,Comedy
+2,kung-fu panda,4,Animation
+3,Inside out,8,Animation
+3,Spider-man,7,Action
+3,Swindled,2.5,Comedy
+4,Grumpier Old Men ,9.8,Comedy
+4,The forge,10,Drama
+4,Toy  Story ,8,Animation
+5,Jumanji,8,Adventure
+5,Mama mia,9.1,Musical
+6,Inside out,5,Animation
+6,Mama mia,6,Musical
+7,White chicks,9,Comedy
+7,Little man,7,Comedy
+8,The boy in the striped pyjamas,9,Drama
+8,The forge,10,Drama
+9,kung-fu panda,3,Animation
