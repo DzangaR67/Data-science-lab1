@@ -31,5 +31,6 @@ rated_by_user = user_item_matrix.iloc[user_index].dropna().index
 
 # Recommend only unseen movies
 recommended = [movie for movie in recommended_movies if movie not in rated_by_user]
-print(f"🎯 Final recommendations for User 1: {recommended}")
+print(f" Final recommendations for User 1: {recommended}")
+
 
